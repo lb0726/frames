@@ -8,3 +8,6 @@ https://github.com/Tencent/weui
 
 # weui.js
 https://github.com/Tencent/weui.js
+
+# weui-wxss
+https://github.com/Tencent/weui-wxss
