@@ -1,7 +1,7 @@
 # 前端框架
 
-# IView
+# iView
 https://www.iviewui.com/docs/guide/install
 
-# WeUi
+# weui
 https://github.com/Tencent/weui
